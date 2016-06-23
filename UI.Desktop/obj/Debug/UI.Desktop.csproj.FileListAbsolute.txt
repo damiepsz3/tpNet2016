@@ -1,2 +1,3 @@
 c:\users\damie\documents\visual studio 2013\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
 C:\Users\damie\Documents\Visual Studio 2013\Projects\TP2L02\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\UI.Desktop.exe.config
