@@ -43,8 +43,6 @@
     <Compile Include="Genero.cs" />
     <Compile Include="Juego.cs" />
     <Compile Include="Marca.cs" />
-    <Compile Include="Modulo.cs" />
-    <Compile Include="ModuloUsuario.cs" />
     <Compile Include="Personas.cs" />
     <Compile Include="Plataforma.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

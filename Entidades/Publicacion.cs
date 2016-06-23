@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Entidades
+namespace Entidades 
 {
-    class Publicacion
-    {
+    class Publicacion : Entidades
+     {
         public Usuarios Usuario { get; set; }
         public Juego MiJuego { get; set; }
         public List<Juego> Aceptantes { get; set; }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entidades
 {
-    class Genero
+    class Genero : Entidades
     {
         public int Codigo { get; set; }
         public string Nombre { get; set; }

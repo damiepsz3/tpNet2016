@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class Juego
+    class Juego : Entidades
     {
         public string Nombre { get; set; }
         public Plataforma PlatJuego{ get; set; }

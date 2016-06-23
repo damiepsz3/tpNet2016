@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Entidades
 {
-    class Marca
+    class Marca : Entidades
     {
     
         public string Nombre { get; set; }
