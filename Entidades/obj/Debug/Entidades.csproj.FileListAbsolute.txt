@@ -1,0 +1,5 @@
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Entidades\bin\Debug\Entidades.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Entidades\bin\Debug\Entidades.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Entidades\obj\Debug\Entidades.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Entidades\obj\Debug\Entidades.pdb

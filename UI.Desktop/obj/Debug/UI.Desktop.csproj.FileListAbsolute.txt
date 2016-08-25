@@ -1,3 +1,14 @@
 c:\users\damie\documents\visual studio 2013\Projects\TP2\UI.Desktop\bin\Debug\UI.Desktop.exe.config
 C:\Users\damie\Documents\Visual Studio 2013\Projects\TP2L02\UI.Desktop\bin\Debug\UI.Desktop.exe.config
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\UI.Desktop.exe.config
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\UI.Desktop.exe
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\UI.Desktop.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.exe
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Entidades.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Negocio.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Entidades.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Negocio.pdb

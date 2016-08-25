@@ -8,7 +8,7 @@ namespace Entidades
 {
     class Publicacion : Entidades
      {
-        public Usuarios Usuario { get; set; }
+        public Usuario Usuario { get; set; }
         public Juego MiJuego { get; set; }
         public List<Juego> Aceptantes { get; set; }
         public float Plata { get; set; }
