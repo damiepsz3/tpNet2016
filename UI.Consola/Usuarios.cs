@@ -36,6 +36,7 @@ namespace UI.Consola
                     Agregar();
                     break;
                 case "4":
+                    Modificar();
                     break;
                 case "5":
                     break;
@@ -52,14 +53,33 @@ namespace UI.Consola
             {
                 MostrarDatos(usr);
             }
+            Console.ReadKey();
         }
 
         public void Consulta()
         {
-            Console.Clear();
-            Console.Write("Ingrese el ID del usuario a consultar: ");
-            int id = int.Parse(Console.ReadLine());
-            this.MostrarDatos(logic.GetOne(id));
+            try
+            {
+                Console.Clear();
+                Console.Write("Ingrese el ID del usuario a consultar: ");
+                int id = int.Parse(Console.ReadLine());
+                this.MostrarDatos(logic.GetOne(id));
+            }
+            catch (FormatException fe)
+            {
+                Console.WriteLine();
+                Console.WriteLine("La ID ingresada debe ser un número entero");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine();
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Presione una tecla para continuar");
+                Console.ReadKey();
+            }
         }
 
         public void MostrarDatos(Usuario usr)
@@ -80,8 +100,32 @@ namespace UI.Consola
             Console.Clear();
             Console.WriteLine("Ingrese el nombre: ");
 
+        }
 
+        public void Modificar()
+        {
+            try
+            {
+                Console.Clear();
+                Console.Write("Ingrese el ID del usuario a modificar: ");
+                int id = int.Parse(Console.ReadLine());
 
+            }
+            catch (FormatException fe)
+            {
+                Console.WriteLine();
+                Console.WriteLine("La ID ingresada debe ser un número entero");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine();
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                Console.WriteLine("Presione una tecla para continuar");
+                Console.ReadKey();
+            }
         }
     }
 }
