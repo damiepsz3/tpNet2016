@@ -15,7 +15,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UI.web1", "http://localhost
 	ProjectSection(WebsiteProperties) = preProject
 		UseIISExpress = "true"
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		ProjectReferences = "{1e705b66-9858-4799-a997-4aff2d112ac9}|Entidades.dll;{7ff938ec-9633-4af6-a235-245784847f99}|Negocio.dll;"
+		ProjectReferences = "{1e705b66-9858-4799-a997-4aff2d112ac9}|Entidades.dll;{7ff938ec-9633-4af6-a235-245784847f99}|Negocio.dll;{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}|Data.Database.dll;"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_51440"
 		Debug.AspNetCompiler.PhysicalPath = "..\..\..\WebSites\UI.web1\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51440\"
@@ -35,6 +35,8 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "UI.web1", "http://localhost
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data.Database", "Data.Database\Data.Database.csproj", "{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Consola", "UI.Consola\UI.Consola.csproj", "{4DE5E0F6-56EB-4710-834B-113BBB3E6236}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -66,6 +68,10 @@ Global
 		{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18D1C50F-58E0-4D94-B05B-4A95A146E6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DE5E0F6-56EB-4710-834B-113BBB3E6236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE5E0F6-56EB-4710-834B-113BBB3E6236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE5E0F6-56EB-4710-834B-113BBB3E6236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE5E0F6-56EB-4710-834B-113BBB3E6236}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,7 +4,6 @@ C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bi
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\UI.Desktop.exe
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\UI.Desktop.pdb
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.csprojResolveAssemblyReference.cache
-C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.Properties.Resources.resources
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.csproj.GenerateResource.Cache
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.exe
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Desktop.pdb
@@ -12,3 +11,6 @@ C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bi
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Negocio.dll
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Entidades.pdb
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Negocio.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Data.Database.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Data.Database.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Consola.Properties.Resources.resources

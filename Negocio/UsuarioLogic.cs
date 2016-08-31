@@ -12,10 +12,24 @@ namespace Negocio
     {
         public Data.Database.UsuarioAdapter UsuarioData { get; set; }
 
-        public UsuarioLogic()
-        {
+        public UsuarioLogic() {
             this.UsuarioData = new UsuarioAdapter();
         }
 
+        public Usuario GetOne(int id) {
+            return this.UsuarioData.GetOne(id) ;
+        }
+
+        public List<Usuario> GetAll() {
+            return this.UsuarioData.GetAll();
+        }
+
+        public void Delete(int id) {
+            this.UsuarioData.Delete(id);
+        }
+
+        public void Save(Entidades.Usuario user) {
+            this.UsuarioData.Save(user);
+        }
     }
 }

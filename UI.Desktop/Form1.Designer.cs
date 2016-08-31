@@ -1,4 +1,4 @@
-﻿namespace UI.Desktop
+﻿namespace UI.Consola
 {
     partial class Form1
     {

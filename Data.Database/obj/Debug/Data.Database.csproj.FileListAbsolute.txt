@@ -1,0 +1,7 @@
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\bin\Debug\Data.Database.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\bin\Debug\Data.Database.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\bin\Debug\Entidades.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\bin\Debug\Entidades.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\obj\Debug\Data.Database.csprojResolveAssemblyReference.cache
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\obj\Debug\Data.Database.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Data.Database\obj\Debug\Data.Database.pdb

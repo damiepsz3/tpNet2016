@@ -1,0 +1,12 @@
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\UI.Consola.exe.config
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\UI.Consola.exe
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\UI.Consola.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\obj\Debug\UI.Consola.exe
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\obj\Debug\UI.Consola.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\obj\Debug\UI.Consola.csprojResolveAssemblyReference.cache
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\Entidades.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\Negocio.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\Data.Database.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\Entidades.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\Negocio.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Consola\bin\Debug\Data.Database.pdb

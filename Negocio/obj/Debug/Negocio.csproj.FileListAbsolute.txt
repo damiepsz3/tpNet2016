@@ -5,3 +5,5 @@ C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Negocio\bin\D
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Negocio\obj\Debug\Negocio.dll
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Negocio\obj\Debug\Negocio.pdb
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Negocio\bin\Debug\Data.Database.dll
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\Negocio\bin\Debug\Data.Database.pdb
