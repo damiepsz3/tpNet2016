@@ -14,3 +14,4 @@ C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bi
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Data.Database.dll
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\bin\Debug\Data.Database.pdb
 C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Consola.Properties.Resources.resources
+C:\Users\damie\Documents\Visual Studio 2013\Projects\git\tpNet2016\UI.Desktop\obj\Debug\UI.Consola.Form1.resources
